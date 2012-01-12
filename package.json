@@ -1,0 +1,17 @@
+{
+  "author": "Tom de Grunt <tom@degrunt.nl>",
+  "name": "nomq",
+  "description": "NoMQ",
+  "version": "0.0.0",
+  "repository": {
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.7"
+  },
+  "dependencies": {
+    "redis": "~0.7.1"
+  },
+  "devDependencies": {},
+  "main": "lib/nomq"
+}
